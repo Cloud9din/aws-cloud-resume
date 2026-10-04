@@ -10,7 +10,7 @@ The project includes a live visitor counter powered by API Gateway, AWS Lambda a
 
 ## Screenshot
 
-![AWS Cloud Resume](screenshots/cloud-resume.png)
+![AWS Cloud Resume](cloud-resume.png)
 
 ## Project Overview
 
