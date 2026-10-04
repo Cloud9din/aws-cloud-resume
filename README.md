@@ -8,6 +8,10 @@ The project includes a live visitor counter powered by API Gateway, AWS Lambda a
 
 [View the Live AWS Cloud Resume](https://d3kw0h8f8vngl6.cloudfront.net)
 
+## Screenshot
+
+![AWS Cloud Resume](screenshots/cloud-resume.png)
+
 ## Project Overview
 
 This project demonstrates how a front-end website can be combined with AWS cloud services to create a simple serverless application.
